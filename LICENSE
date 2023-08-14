@@ -1,2 +1,2 @@
 words = ["apple", "hello"]
-print(wordds[1
+print(words[1])
